@@ -7,7 +7,7 @@
 # Inputs:        str courseGrade, str enterDetail, float courseCredit
 # Outputs:       float resultGPA
 # Sources:       Chapter 3, assignment 3 specs, CIS 133Y Python Style Guide
-# GitHub:
+# GitHub:        https://github.com/washburnr/Lab_3_GPA_Calculator_2026.git
 #*****************************************************************************
 
 def main():
